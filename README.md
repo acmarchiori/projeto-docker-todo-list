@@ -12,7 +12,7 @@ Os arquivos e códigos das pastas `docker/todo-app` foram feitos pela [Trybe](ht
 ## Instruções de Uso 🚀
 
 1. Certifique-se de ter o Docker instalado: [Documentação do Docker](https://docs.docker.com/get-docker/).
-2. Clone este repositório: `git clone https://github.com/seudominio/todo-app.git`.
+2. Clone este repositório: `git clone https://github.com/acmarchiori/projeto-docker-todo-list`.
 3. Navegue até a pasta clonada: `cd todo-app`.
 4. Construa as imagens dos containers do frontend, backend e testes: `docker-compose build`.
 5. Execute o comando Docker Compose: `docker-compose up`.
